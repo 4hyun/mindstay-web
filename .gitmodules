@@ -1,0 +1,3 @@
+[submodule "mindtherapist-blog-scraper"]
+	path = mindtherapist-blog-scraper
+	url = ./mindtherapist-blog-scraper/
